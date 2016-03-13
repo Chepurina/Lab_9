@@ -1,0 +1,17 @@
+.opacity-area{
+	background: #000;
+	filter: alpha(Opacity=20);
+}
+
+.grad-area{
+	background: url('../img/grad_fon.jpg');
+}
+
+.i__phone{
+	float:right;
+	position: absolute;
+	top: 243px;
+	left: 940px;
+	width: 50%;
+	
+}
